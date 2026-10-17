@@ -1,0 +1,6 @@
+{
+  "name": "CYBER ARENA 3D - Mabar Shooter",
+  "description": "Game aksi tembak-tembakan 3D multiplayer real-time. Main bareng teman (mabar) dengan room code, arena sci-fi futuristik, dan grafis Three.js yang memukau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

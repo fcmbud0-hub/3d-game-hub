@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Rajdhani', -apple-system, BlinkMacSystemFont, sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  h1, h2, h3, h4, .font-tech {
+    font-family: 'Chakra Petch', sans-serif;
+  }
+}
+
+canvas {
+  outline: none;
+}
